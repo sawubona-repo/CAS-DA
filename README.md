@@ -2,7 +2,7 @@ CAS Digital Analytics in Marketing - Applied Data Science Module (M3)
 ====================================================================
 ## The Public GitHub Repository for CAS DA Students 
 
-![Welcome](https://user-images.githubusercontent.com/52699611/219407241-8a382b6e-7960-4715-8cf8-9c130fdca705.png)
+![Welcome](https://github.com/sawubona-gmbh/CAS-DA/blob/140f4b0f69480ab5dfd6f2bc17a7e0fefa4c935b/zImages/CAS-DA6_UseCases-Part%201_V1_Mai2023_DBenninger.png)
 
 Data and Documentation Repository for CAS DA Module 3 "Applied Data Science" 
 This GitHub Repository will be the central soucre of information to support the Case Studies (QS3) of the module M3
