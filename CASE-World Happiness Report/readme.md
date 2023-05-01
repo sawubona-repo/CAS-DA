@@ -1,6 +1,6 @@
 # World Happiness Report 
 
-Analyze who and why is happy in the world
+Analyze who and why inhabitants of a country are happy
 ---  
 #### 01.05.20234 v1 dbe - initial version for CAS DA6
 ---  
