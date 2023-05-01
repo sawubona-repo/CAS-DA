@@ -28,12 +28,15 @@ exercise, and diet.
 
 
 ### Data Fields   
-+ xxxx     
-+ xxxx     
-+ xxxx     
-+ xxxx     
-+ xxxx     
-+ xxxx     
-+ xxxx     
-+ xxxx     
-+ xxxx     
++ Country
++ Region
++ Happiness Rank
++ Happiness Score
++ Standard Error
++ Economy (GDP per Capita)
++ Family
++ Health (Life Expectancy)
++ Freedom
++ Trust (Government Corruption)
++ Generosity
++ Dystopia Residual  
