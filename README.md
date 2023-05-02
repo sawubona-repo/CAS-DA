@@ -14,7 +14,6 @@ The Repository(Repo) is organized according to the different lecture topics and 
 
 * **CASE - datasets and documentation for case studies**  
 
-* HOW TO - short descriptions for tools, scripts, accounts, services etc.
-* CODE - code snippets and examples for demonstration and/or self study tasks
-* DOC - documentation of Tools, Services, Technologies, Topics etc.
-* LINKS - additional sources and information for special topics of the lectures
+* CODE - code snippets, scripts and examples for demonstration and/or self study tasks in applied data science
+* DOC - documentation of topics, tipps and examples in applied data science
+* HOWTO - short descriptions for tools, scripts, accounts, services etc.
