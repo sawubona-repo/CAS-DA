@@ -12,7 +12,7 @@ This GitHub Repository will be the central soucre of information to support the 
 
 The Repository(Repo) is organized according to the different lecture topics and contains information like
 
-* **DATA - datasets and documentation for case studies**  
+* **CASE - datasets and documentation for case studies**  
 
 * HOW TO - short descriptions for tools, scripts, accounts, services etc.
 * CODE - code snippets and examples for demonstration and/or self study tasks
