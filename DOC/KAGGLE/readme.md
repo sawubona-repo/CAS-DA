@@ -13,5 +13,7 @@ Kaggle bietet auch eine öffentliche Datenplattform, eine Cloud-basierte Workben
 
 ---  
 ### Datenvisualisierung  
++ [Hello Seaborn](https://www.kaggle.com/code/alexisbcook/hello-seaborn/data) - Your first introduction to coding for data visualization
+
 + [Seaborn Tutorial](https://www.kaggle.com/code/saurav9786/seaborn-tutorial) - Eine detaillierte Anleitung in Datenvisualisierung mittels Python und der Seaborn Bibliothek  
 + [Seaborn Tutorial for Beginners](https://www.kaggle.com/code/kanncaa1/seaborn-tutorial-for-beginners) - Ein weiteres Set an Python/Notebooks zur Visualisierung mittels Seaborn
