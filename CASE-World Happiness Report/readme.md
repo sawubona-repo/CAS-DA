@@ -19,11 +19,14 @@ in particular, their answers to the single-item Cantril ladder life-evaluation q
 exercise, and diet.
 
 
-
-
 ### File Descriptions  
 + 2015.csv - xxxx  
-...
++ 2016.csv - xxxx  
++ 2017.csv - xxxx
++ 2018.csv - xxxx
++ 2019.csv - xxxx
++ 2020.csv - xxxx
++ 2021.csv - xxxx  
 + 2022.csv - xxxx
 
 
@@ -40,3 +43,10 @@ exercise, and diet.
 + Trust (Government Corruption)
 + Generosity
 + Dystopia Residual  
+
+---   
+### Mögliche Aufgaben/Fragestellungen für die M3 Fall Studie    
++ Explorative Analyse des Dataset (Top 10, Bottom 10, Median/Mittelwerte, Häufigkeiten, Korrelationen etc.)
++ Clustering/Segmentierung von Ländern nach Merkmalen
++ xxx
+
