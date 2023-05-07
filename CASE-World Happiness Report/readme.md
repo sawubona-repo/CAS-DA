@@ -12,17 +12,10 @@ Life evaluations from the Gallup World Poll provide the basis for the annual hap
 The Cantril ladder asks respondents to think of a ladder, with the best possible life for them being a 10 and the worst possible life being a 0. 
 They are then asked to rate their own current lives on that 0 to 10 scale. The rankings are from nationally representative samples over three years.
 
-We use observed data on the **six variables** and estimates of their associations with life evaluations to explain the variation across countries. They include   
-+ GDP per capita  
-+ social support 
-+ healthy life expectancy
-+ freedom 
-+ generosity
-+ corruption  
+We use observed data on the **six variables** and estimates of their associations with life evaluations to explain the variation across countries. 
 
-Our happiness rankings are not based on any index of these six factors – the scores are instead based on individuals’ own assessments of their lives, 
-in particular, their answers to the single-item Cantril ladder life-evaluation question, much as epidemiologists estimate the extent to which life expectancy is affected by factors such as smoking,
-exercise, and diet.
+The happiness rankings are not based on any index of these six factors – the scores are instead based on individuals’ own assessments of their lives, 
+in particular, their answers to the single-item Cantril ladder life-evaluation question, much as epidemiologists estimate the extent to which life expectancy is affected by factors such as smoking, exercise, and diet.
 
 
 ### File Descriptions  
@@ -49,6 +42,7 @@ exercise, and diet.
 + Trust (Government Corruption)
 + Generosity
 + Dystopia Residual  
+
 
 ---   
 ### Mögliche Aufgaben/Fragestellungen für die M3 Fall Studie    
