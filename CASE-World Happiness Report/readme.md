@@ -12,22 +12,28 @@ Life evaluations from the Gallup World Poll provide the basis for the annual hap
 The Cantril ladder asks respondents to think of a ladder, with the best possible life for them being a 10 and the worst possible life being a 0. 
 They are then asked to rate their own current lives on that 0 to 10 scale. The rankings are from nationally representative samples over three years.
 
-We use observed data on the six variables and estimates of their associations with life evaluations to explain the variation across countries. 
-They include GDP per capita, social support, healthy life expectancy, freedom, generosity, and corruption. 
+We use observed data on the **six variables** and estimates of their associations with life evaluations to explain the variation across countries. They include   
++ GDP per capita  
++ social support 
++ healthy life expectancy
++ freedom 
++ generosity
++ corruption  
+
 Our happiness rankings are not based on any index of these six factors – the scores are instead based on individuals’ own assessments of their lives, 
 in particular, their answers to the single-item Cantril ladder life-evaluation question, much as epidemiologists estimate the extent to which life expectancy is affected by factors such as smoking,
 exercise, and diet.
 
 
 ### File Descriptions  
-+ 2015.csv - xxxx  
-+ 2016.csv - xxxx  
-+ 2017.csv - xxxx
-+ 2018.csv - xxxx
-+ 2019.csv - xxxx
-+ 2020.csv - xxxx
-+ 2021.csv - xxxx  
-+ 2022.csv - xxxx
++ 2015.csv - world data year 2015  
++ 2016.csv - world data year 2016  
++ 2017.csv - world data year 2017
++ 2018.csv - world data year 2018
++ 2019.csv - world data year 2019
++ 2020.csv - world data year 2020
++ 2021.csv - world data year 2021  
++ 2022.csv - world data year 2020
 
 
 ### Data Fields   
@@ -48,5 +54,6 @@ exercise, and diet.
 ### Mögliche Aufgaben/Fragestellungen für die M3 Fall Studie    
 + Explorative Analyse des Dataset (Top 10, Bottom 10, Median/Mittelwerte, Häufigkeiten, Korrelationen etc.)
 + Clustering/Segmentierung von Ländern nach Merkmalen
++ Zeitreihen - Entwicklungen zwischen 2015 und 2022
 + xxx
 
