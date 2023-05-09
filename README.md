@@ -17,3 +17,13 @@ The Repository(Repo) is organized according to the different lecture topics and 
 * CODE - code snippets, scripts and examples for demonstration and/or self study tasks in applied data science
 * DOC - documentation of topics, tipps and examples in applied data science
 * HOWTO - short descriptions for tools, scripts, accounts, services etc.
+
+---  
+---  
+List of the current available datasets for Case Studies:  
++ CASE: Customer Data Analytics - iFood  
++ CASE: Customer Data Analytics - Shoe Prices
++ CASE: Customer Segmentation I
++ CASE: Retail Product Analysis - Adidas vs Nike
++ CASE: World Happiness Report
+
