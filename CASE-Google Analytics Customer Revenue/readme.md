@@ -4,6 +4,9 @@ Analyze how much GStore customers are spending
 ---  
 #### 08.05.20234 v1 dbe - initial version for CAS DA6
 ---  
+![image](https://github.com/sawubona-gmbh/CAS-DA/assets/52699611/15af78f5-6b98-4a07-8d26-90ee515c8ce6)
+
+In this competition, you’re challenged to analyze a Google Merchandise Store (also known as GStore, where Google swag is sold) customer dataset to predict revenue per customer. Hopefully, the outcome will be more actionable operational changes and a better use of marketing budgets for those companies who choose to use data analysis on top of GA data.
 
 
 ### File Descriptions  
