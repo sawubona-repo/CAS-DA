@@ -1,5 +1,5 @@
 # Customer Segmentation II 
-### eCommerce Database Content
+### Dummy Dataset
 ---  
 #### 08.05.20234 v1 dbe - initial version for CAS DA6
 ---  
