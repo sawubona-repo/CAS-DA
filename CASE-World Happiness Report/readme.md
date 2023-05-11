@@ -45,9 +45,9 @@ in particular, their answers to the single-item Cantril ladder life-evaluation q
 
 
 ---   
-### Mögliche Aufgaben/Fragestellungen für die M3 Fall Studie    
+### Mögliche Aufgaben/Fragestellungen für die QS3 Fall Studie    
 + Explorative Analyse des Dataset (Top 10, Bottom 10, Median/Mittelwerte, Häufigkeiten, Korrelationen etc.)
-+ Clustering/Segmentierung von Ländern nach Merkmalen
-+ Zeitreihen - Entwicklungen zwischen 2015 und 2022
-+ xxx
++ Zeitreihen: Entwicklungen einzelner oder mehrerer Länder in den Jahren 2015-2022
++ Clustering/Segmentierung: von Ländern nach allen oder ausgewählten Merkmalen
++ weitere explorative und visuelle Analysen mit Blick auf mögliche Erkenntnisse/Insights
 

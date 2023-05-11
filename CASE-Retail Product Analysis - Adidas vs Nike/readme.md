@@ -30,8 +30,8 @@ Nike and Adidas are both well-established companies in the footwear industry. Bo
 
 
 ---   
-### Mögliche Aufgaben/Fragestellungen für die M3 Fall Studie    
-+ Explorative Analyse des Produkte Dataset   
+### Mögliche Aufgaben/Fragestellungen für die QS3 Fall Studie    
++ Explorative Analyse des Dataset (Top 10, Bottom 10, Median/Mittelwerte, Häufigkeiten, Korrelationen etc.)
 + Clustering/Segmentierung der Produkte nach verschiedenen Faktoren   
-+ Wettbewerbsanalyse zwischen Nike und Adidas  
-+ ....
++ Wettbewerbsanalyse zwischen Nike und Adidas an Hand der Produktdaten
++ weitere explorative und visuelle Analysen mit Blick auf mögliche Erkenntnisse/Insights

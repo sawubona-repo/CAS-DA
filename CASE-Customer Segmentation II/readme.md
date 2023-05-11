@@ -1,5 +1,5 @@
 # Customer Segmentation II 
-### Dummy Dataset
+### Dummy (i.e. generated) Dataset
 ---  
 #### 08.05.20234 v1 dbe - initial version for CAS DA6
 ---  
@@ -46,9 +46,10 @@ The Dataset contains information like:
 
 
 ---   
-### Mögliche Aufgaben/Fragestellungen für die M3 Fall Studie    
-+ Explorative Analyse des Dataset (Top 10, Bottom 10, Median/Mittelwerte, Häufigkeiten, Korrelationen etc.)
-+ Clustering/Segmentierung von Ländern nach Merkmalen
-+ Zeitreihen - Entwicklungen zwischen 2015 und 2022
-+ xxx  
+### Mögliche Aufgaben/Fragestellungen für die QS3 Fall Studie    
++ Explorative Analyse des Dataset 
++ Clustering/Segmentierung von Kund:innen nach allen Merkmalen oder eine spezifischen Gruppe von Merkmalen
++ weitere explorative und visuelle Analysen mit Blick auf mögliche Erkenntnisse/Insights 
+
+*WORK IN PROGRESS*  
 

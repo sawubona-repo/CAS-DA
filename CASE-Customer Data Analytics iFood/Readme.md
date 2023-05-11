@@ -33,16 +33,16 @@ Additionally, it contains a flag for those customers who responded the campaign,
 
 
 ---   
-### Mögliche Aufgaben/Fragestellungen für die M3 Fall Studie    
-+ Explorative Analyse des Dataset (Top 10, Bottom 10, Median/Mittelwerte, Häufigkeiten, Korrelationen etc.)
-+ Clustering/Segmentierung von Ländern nach Merkmalen
-+ Zeitreihen - Entwicklungen zwischen 2015 und 2022
-+ xxx  
+### Mögliche Aufgaben/Fragestellungen für die QS3 Fall Studie    
++ Explorative Analyse des Dataset 
++ Clustering/Segmentierung von Kund:innen nach allen Merkmalen oder eine spezifischen Gruppe von Merkmalen
++ Regressionsanalyse zur Optimierung des Marketingeinsatzes bzgl. Umsatzsteigerung
++ weitere explorative und visuelle Analysen mit Blick auf mögliche Erkenntnisse/Insights 
 
-Key Objectives are:
-1. Explore the data – don’t just plot means and counts. Provide insights, define cause and
+*WORK IN PROGRESS*     
+1 Explore the data – don’t just plot means and counts. Provide insights, define cause and
 effect. Provide a better understanding of the characteristic features of respondents;
-2. Propose and describe a customer segmentation based on customers behaviors;
-3. Create a predictive model which allows the company to maximize the profit of the next
+2 Propose and describe a customer segmentation based on customers behaviors;
+3 Create a predictive model which allows the company to maximize the profit of the next
 marketing campaign
 

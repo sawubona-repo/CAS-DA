@@ -29,14 +29,12 @@ The data set contains 8 features
 
 
 ---   
-### Mögliche Aufgaben/Fragestellungen für die M3 Fall Studie    
-+ Explorative Analyse des Dataset (Top 10, Bottom 10, Median/Mittelwerte, Häufigkeiten, Korrelationen etc.)
-+ Clustering/Segmentierung von Ländern nach Merkmalen
-+ Zeitreihen - Entwicklungen zwischen 2015 und 2022
-+ xxx  
+### Mögliche Aufgaben/Fragestellungen für die QS3 Fall Studie    
++ Explorative Analyse des Dataset 
++ Clustering/Segmentierung von Kund:innen nach allen Merkmalen oder eine spezifischen Gruppe von Merkmalen
++ weitere explorative und visuelle Analysen mit Blick auf mögliche Erkenntnisse/Insights 
 
-1. Data Preparation
-
+*WORK IN PROGRESS*    
 2. Exploring the content of variables
 
 2.1 Countries
@@ -44,15 +42,15 @@ The data set contains 8 features
 2.2.1 Cancelling orders
 2.2.2 StockCode
 2.2.3 Basket price
-3. Insight on product categories
 
+3. Insight on product categories
 3.1 Product description
 3.2 Defining product categories
 3.2.1 Data encoding
 3.2.2 Clusters of products
 3.2.3 Characterizing the content of clusters
-4. Customer categories
 
+4. Customer categories
 4.1 Formating data
 4.1.1 Grouping products
 4.1.2 Time spliting of the dataset
