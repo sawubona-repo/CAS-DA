@@ -1,6 +1,8 @@
 # Retail Product Analysis - Adidas US  
 A Dataset for those interested in Fashion, Style, and Retail
 
+![image](https://github.com/sawubona-gmbh/CAS-DA/assets/52699611/9f4521a6-adb5-412e-80c2-2098c0dfadc0)
+
 ---  
 #### 25.05.20234 v1 dbe - initial version for CAS DA6
 ---  
