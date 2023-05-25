@@ -20,6 +20,7 @@ List of Datasets for Case Studies:
 + CASE: World Happiness Report
 
 + *CASE: Sales Transactions Analytics - Automotive Parts*
++ *CASE: Retail Product Analysis - Adidas*  
 
 ---  
 ---  
