@@ -42,7 +42,7 @@ The average rating and reviews count are also included in the dataset so that re
 + weitere explorative und visuelle Analysen mit Blick auf mögliche Erkenntnisse/Insights
 
 
-Research Ideas
-This dataset can be used to determine which colors are most popular among different age groups or genders.
-This dataset can be used to identify the most popular products among different countries or regions.
-This dataset can be used to analyze the correlation between product reviews and ratings to determine which factors are most important to customers
+> *WORK IN PROGRESS - Research Ideas*   
+> This dataset can be used to determine which colors are most popular among different age groups or genders   
+> This dataset can be used to identify the most popular products among different countries or regions    
+> This dataset can be used to analyze the correlation between product reviews and ratings to determine which factors are most important to customers
