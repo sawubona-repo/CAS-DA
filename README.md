@@ -19,8 +19,11 @@ List of Datasets for Case Studies:
 + CASE: Retail Product Analysis - Adidas vs Nike
 + CASE: World Happiness Report
 
-+ *CASE: Sales Transactions Analytics - Automotive Parts*
++ *CASE: IMDB 5000 Movie Analytics*
++ *CASE: Product Review Analytics*
 + *CASE: Retail Product Analysis - Adidas*  
++ *CASE: Sales Transactions Analytics - Automotive Parts*
+
 
 ---  
 ---  
