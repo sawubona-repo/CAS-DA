@@ -7,7 +7,7 @@ CAS Digital Analytics in Marketing - Applied Data Science Module (M3)
 Data and Documentation Repository for CAS DA Module 3 "Applied Data Science" 
 This GitHub Repository will be the central soucre of information to support the Case Studies (QS3) of the module M3
 
-###### Last update: 01/05/23 dbe - initial version
+###### Last update: 25/05/23 dbe - updated List of Datasets for Case Studies (01/05/23 dbe - initial version)
 
 ---  
 List of Datasets for Case Studies:  
@@ -18,7 +18,8 @@ List of Datasets for Case Studies:
 + CASE: Google Analytics Customer Revenue - GStore Customer Spendings
 + CASE: Retail Product Analysis - Adidas vs Nike
 + CASE: World Happiness Report
-+ .... more datasets to come soon ...
+
++ *CASE: Sales Transactions Analytics - Automotive Parts*
 
 ---  
 ---  
