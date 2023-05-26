@@ -23,7 +23,8 @@ List of Datasets for Case Studies:
 + *CASE: Product Review Analytics*
 + *CASE: Retail Product Analysis - Adidas*  
 + *CASE: Sales Transactions Analytics - Automotive Parts*
-
++ *CASE: Clickstream Analytics - Online Shopping*
++ *CASE: Website Traffic Analytics - Opendata DC GOV*
 
 ---  
 ---  
