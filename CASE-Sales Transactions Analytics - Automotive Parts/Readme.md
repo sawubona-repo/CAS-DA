@@ -1,5 +1,8 @@
 # Sales Transactions Analytics  
 ### Automotive Parts
+
+![image](https://github.com/sawubona-gmbh/CAS-DA/assets/52699611/3b51362f-f935-466a-92b5-17772d30c7c9)
+
 ---  
 #### 25.05.20234 v1 dbe - initial version for CAS DA6
 ---  
