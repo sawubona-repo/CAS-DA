@@ -1,6 +1,9 @@
 # Clickstream Analytics
 
 Clickstream Data for Online Shopping Data Set  
+
+![image](https://github.com/sawubona-gmbh/CAS-DA/assets/52699611/265b4db8-7465-4f15-8fb7-e27196258285)
+
 ---  
 #### 25.05.20234 v1 dbe - initial version for CAS DA6
 ---  
