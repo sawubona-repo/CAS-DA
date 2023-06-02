@@ -1,5 +1,5 @@
 # Customer Segmentation II 
-### Dummy (i.e. generated) Dataset
+### Artificial (i.e. generated) Dataset
 ---  
 #### 08.05.20234 v1 dbe - initial version for CAS DA6
 ---  
