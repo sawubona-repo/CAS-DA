@@ -1,6 +1,6 @@
 CAS Digital Analytics in Marketing - Applied Data Science Module (M3)
 ====================================================================
-## The Public GitHub Repository for CAS DA Members 
+## The Public GitHub Repository for CAS DA Students and Members 
 
 ![Welcome](https://github.com/sawubona-gmbh/CAS-DA/blob/140f4b0f69480ab5dfd6f2bc17a7e0fefa4c935b/zImages/CAS-DA6_UseCases-Part%201_V1_Mai2023_DBenninger.png)
 
@@ -19,12 +19,12 @@ List of Datasets for Case Studies:
 + CASE: Retail Product Analysis - Adidas vs Nike
 + CASE: World Happiness Report
 
-+ *CASE: IMDB 5000 Movie Analytics*
-+ *CASE: Product Review Analytics*
-+ *CASE: Retail Product Analysis - Adidas*  
-+ *CASE: Sales Transactions Analytics - Automotive Parts*
-+ *CASE: Clickstream Analytics - Online Shopping*
-+ *CASE: Website Traffic Analytics - Opendata DC GOV*
++ CASE: IMDB 5000 Movie Analytics  
++ CASE: Product Review Analytics  
++ CASE: Retail Product Analysis - Adidas  
++ CASE: Sales Transactions Analytics - Automotive Parts
++ CASE: Clickstream Analytics - Online Shopping  
++ CASE: Website Traffic Analytics - Opendata DC GOV
 
 ---  
 ---  
