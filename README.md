@@ -1,13 +1,14 @@
-CAS Digital Analytics in Marketing - Applied Data Science Module (M3)
-====================================================================
+CAS Digital Analytics in Marketing - Applied Data Science Module (WBK DS)
+=========================================================================
 ## The Public GitHub Repository for CAS DA Students and Members 
 
 ![Welcome](https://github.com/sawubona-gmbh/CAS-DA/blob/140f4b0f69480ab5dfd6f2bc17a7e0fefa4c935b/zImages/CAS-DA6_UseCases-Part%201_V1_Mai2023_DBenninger.png)
 
-Data and Documentation Repository for CAS DA Module 3 "Applied Data Science" 
-This GitHub Repository will be the central soucre of information to support the Case Studies (QS3) of the module M3
+Data and Documentation Repository for WBK "Applied Data Science" @CAS DA 
+This GitHub Repository will be the central soucre of information to support the Case Studies (QS3) of the WBK DS
 
-###### Last update: 25/05/23 dbe - updated List of Datasets for Case Studies (01/05/23 dbe - initial version)
+###### Last update: 18/04/24 dbe - updated files and docs for WBK DS 
+###### History:     (25/05/23 dbe - updated List of Datasets for Case Studies) (01/05/23 dbe - initial version)
 
 ---  
 List of Datasets for Case Studies:  
