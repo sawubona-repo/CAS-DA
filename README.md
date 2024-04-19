@@ -6,7 +6,7 @@
 ![Welcome](https://github.com/sawubona-repo/CASDA/blob/aab3d2a29eec8d4278f48a813c1844a48da91358/zImages/WBK_DS_Qualifikationsschritt-Case-Studies-V1_Mai2024_DBenninger.png)
 
 Data and Documentation Repository for WBK "Applied Data Science" @CAS DA 
-This GitHub Repository will be the central soucre of information to support the Case Studies (QS3) of the WBK DS
+This GitHub Repository will be the central soucre of information to support the Case Studies (**Qualifikationsschritt (QS)**) of the WBK DS
 
 ###### Last update: 18/04/24 dbe - updated files and docs for WBK DS 
 ###### History:     (25/05/23 dbe - updated List of Datasets for Case Studies) (01/05/23 dbe - initial version)
