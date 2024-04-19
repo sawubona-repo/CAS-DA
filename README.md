@@ -1,8 +1,8 @@
-CAS Digital Analytics in Marketing - Applied Data Science Module (WBK DS)
+Digital Analytics in Marketing - Applied Data Science Module (WBK DS)
 =========================================================================
-## The Public GitHub Repository for CAS DA Students and Members 
+## The Public GitHub Repository for WBK DS Students and Members 
 
-![Welcome](https://github.com/sawubona-gmbh/CAS-DA/blob/140f4b0f69480ab5dfd6f2bc17a7e0fefa4c935b/zImages/CAS-DA6_UseCases-Part%201_V1_Mai2023_DBenninger.png)
+![Welcome]()
 
 Data and Documentation Repository for WBK "Applied Data Science" @CAS DA 
 This GitHub Repository will be the central soucre of information to support the Case Studies (QS3) of the WBK DS
@@ -19,7 +19,6 @@ List of Datasets for Case Studies:
 + CASE: Google Analytics Customer Revenue - GStore Customer Spendings
 + CASE: Retail Product Analysis - Adidas vs Nike
 + CASE: World Happiness Report
-
 + CASE: IMDB 5000 Movie Analytics  
 + CASE: Product Review Analytics  
 + CASE: Retail Product Analysis - Adidas  
