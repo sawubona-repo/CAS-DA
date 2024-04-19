@@ -1,8 +1,9 @@
-Digital Analytics in Marketing - Applied Data Science Module (WBK DS)
+## Digital Analytics in Marketing   
+# Applied Data Science Module (WBK DS)
 =========================================================================
 ## The Public GitHub Repository for WBK DS Students and Members 
 
-![Welcome]()
+![Welcome](https://github.com/sawubona-repo/CASDA/blob/aab3d2a29eec8d4278f48a813c1844a48da91358/zImages/WBK_DS_Qualifikationsschritt-Case-Studies-V1_Mai2024_DBenninger.png)
 
 Data and Documentation Repository for WBK "Applied Data Science" @CAS DA 
 This GitHub Repository will be the central soucre of information to support the Case Studies (QS3) of the WBK DS
