@@ -2,8 +2,11 @@
 
 Google Analytics Report for /opendata.dc.gov/
 ---  
-#### 25.05.20234 v1 dbe - initial version for CAS DA6
+#### 25.05.2023 v1 dbe - initial version for CAS DA6
 ---  
+![image](https://github.com/sawubona-repo/CASDA/assets/52699611/a30750d5-e872-4b72-b682-427a0b4d0a88)
+
+
 The dataset is a direct export from The City of Washington DC Government's Google Analytics report 
 that shows the individual URL’s pageviews etc from January 1, 2015 – December 31, 2017 from http://opendata.dc.gov  
 Total Pageviews is 1,212,187, the pages visited, are listed by URL. 
