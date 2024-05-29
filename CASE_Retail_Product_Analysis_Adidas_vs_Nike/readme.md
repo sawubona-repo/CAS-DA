@@ -2,7 +2,7 @@
 
 Explore the product details of adidas and nike
 ---  
-#### 08.05.20234 v1 dbe - initial version for CAS DA6
+#### 08.05.2023 v1 dbe - initial version for CAS DA6
 ---  
 When it comes to footwear, Nike and Adidas are two of the biggest names in the industry. Both companies are well-established, have a large and loyal following of consumers, and have a wide range of products known for their quality, performance, and style. Adidas vs Nike is a constant debate in the sports industry. 
 
