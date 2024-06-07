@@ -1,0 +1,39 @@
+info_type,column_name,descroption
+Personal Information,Income,how much person earns
+Personal Information,Kidhome,kids at home
+Personal Information,Teenhome,teens at home
+Personal Information,Age,age of the customer
+Personal Information,Customer_Days,how many days since customer's enrollment with company
+Personal Information,marital_Divorced,whether or not the customer is divorced
+Personal Information,marital_Married,whether or not the customer is married
+Personal Information,marital_Single,whether or not the customer is single
+Personal Information,marital_Together,whether or not the customer is living with a partner
+Personal Information,marital_Widow,whether or not the customer is a widow/widower
+Personal Information,education_2n Cycle,whether or not the customer has a 2nd Cycle education
+Personal Information,education_Basic,whether or not the customer has a Basic education
+Personal Information,education_Graduation,whether or not the customer has a Graduation education
+Personal Information,education_Master,whether or not the customer has a Master education
+Personal Information,education_PhD,whether or not the customer has a PhD education
+Purchase Information,Recency,since last purchase
+Purchase Information,MntWines,amount spent on wines in the last 2 years
+Purchase Information,MntFruits,amount spent on fruits in the last 2 years
+Purchase Information,MntMeatProducts,amount spent on meat products in the last 2 years
+Purchase Information,MntFishProducts,amount spent on fish products in the last 2 years
+Purchase Information,MntSweetProducts,amount spent on sweets in the last 2 years
+Purchase Information,MntGoldProds,amount spent on edible gold products in the last 2 years
+Purchase Information,NumDealsPurchases,number of purchases without discount
+Purchase Information,NumWebPurchases,number of purchases through web
+Purchase Information,NumCatalogPurchases,number of purchases through catalogue
+Purchase Information,NumStorePurchases,number of purchases through store
+Purchase Information,MntTotal,total amount spent by the customer in the last 2 years
+Purchase Information,MntRegularProds,total amount spent by the customer on non-promotional products
+Customer-Company-Operation Information,NumWebVisitsMonth,number of website's visits in last month
+Customer-Company-Operation Information,Complain,customer complained in last 2 years
+Customer-Company-Operation Information,Z_CostContact,how much it costs to contact customer (hypothetical)
+Customer-Company-Operation Information,Z_Revenue,how much revenue generated successfully contacting customer (hypothetical)
+Advertisement Information,AcceptedCmp3,acceptance of the company's advertisement offer in 3rd campaign
+Advertisement Information,AcceptedCmp4,acceptance of the company's advertisement offer in 4th campaign
+Advertisement Information,AcceptedCmp5,acceptance of the company's advertisement offer in 5th campaign
+Advertisement Information,AcceptedCmp1,acceptance of the company's advertisement offer in 1st campaign
+Advertisement Information,AcceptedCmp2,acceptance of the company's advertisement offer in 2nd campaign
+Advertisement Information,Response,customer accepted the offer in the last campaign
