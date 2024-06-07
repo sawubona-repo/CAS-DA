@@ -1,7 +1,7 @@
 # Customer Data Analytics  
-### Women Shoes Prices
+### Women Shoe Prices
 ---  
-#### 08.05.20234 v1 dbe - initial version for CAS DA6
+#### 08.05.2023 v1 dbe - initial version for CAS DA6
 ---  
 > “Give a girl the right shoes, and she can conquer the world.” — Marilyn Monroe  
 
